@@ -63,26 +63,38 @@ We get, CF = (1.59*103*10-7) / 15.9*103
  
 **INTEGRATOR:**
   **CIRCUIT DIAGRAM**
+  <img width="1600" height="1031" alt="image" src="https://github.com/user-attachments/assets/ea562a13-7881-4d16-9da3-3f422f076c45" />
+
 
 
   **MODEL GRAPH:**
+<img width="1600" height="1514" alt="image" src="https://github.com/user-attachments/assets/96f98467-5f63-4a0d-8140-bb80d38a15e6" />
+<img width="1600" height="1123" alt="image" src="https://github.com/user-attachments/assets/9a24a008-c094-46c2-9cd6-96a434151f44" />
 
 
   **TABULATION:**
- 
+ <img width="1600" height="821" alt="image" src="https://github.com/user-attachments/assets/508f28eb-43fc-4350-8f3d-235f1151211e" />
+
+GRAPH:
+<img width="1166" height="1600" alt="image" src="https://github.com/user-attachments/assets/02b955f8-292f-479c-b7cb-6c1c8bf801c1" />
 
 **MODEL CALCULATION:**
 
 **DIFFERENTIATOR:**
   **CIRCUIT DIAGRAM**
+<img width="1600" height="1231" alt="image" src="https://github.com/user-attachments/assets/cb1a30e1-9e01-4905-8c72-223da9a63324" />
 
 
   **MODEL GRAPH:**
+<img width="1599" height="1008" alt="image" src="https://github.com/user-attachments/assets/efc09218-af94-4e39-9a3b-8aa9dc1b9912" />
+<img width="1600" height="1220" alt="image" src="https://github.com/user-attachments/assets/8fd17e90-de5d-4b79-9f89-5d916da4d315" />
 
 
   **TABULATION:**
+<img width="1600" height="740" alt="image" src="https://github.com/user-attachments/assets/0d5191cb-3b83-4851-8fb7-09f5939eedd5" />
 
- 
+ <img width="940" height="1302" alt="image" src="https://github.com/user-attachments/assets/f702b2b5-aaa9-4284-a13a-f374d1f6d532" />
+
 
 **LT-SPICE Tool:PROCEDURE:**
 •	Double click on LT-Spice icon.
@@ -95,7 +107,12 @@ We get, CF = (1.59*103*10-7) / 15.9*103
  
   **LT SPICE**
   **CIRCUIT and Waveform**
-  
+  <img width="1600" height="850" alt="image" src="https://github.com/user-attachments/assets/badec3ec-c9e3-4e69-85f7-d266a70950e3" />
+
+  <img width="1600" height="850" alt="image" src="https://github.com/user-attachments/assets/a14f553b-90f1-411f-a92b-705c1c3c4fc9" />
+
+ <img width="1600" height="850" alt="image" src="https://github.com/user-attachments/assets/1e8444fe-3298-4108-92db-c35308087c88" />
+<img width="1600" height="850" alt="image" src="https://github.com/user-attachments/assets/ddad4d38-849d-4a59-b73c-d795567aa972" />
 
 **RESULT:**
 Thus the Integrator and Differentiator are designed and simulated performance was successfully tested using op-amp IC 741 and LT SPICE.
